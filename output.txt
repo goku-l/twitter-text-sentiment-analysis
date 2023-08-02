@@ -1,0 +1,19 @@
+Text Preprocessing complete.
+Time Taken: 224 seconds
+Data Split done.
+Vectoriser fitted.
+No. of feature_words:  500000
+Data Transformed.
+              precision    recall  f1-score   support
+
+           0       0.81      0.79      0.80     39989
+           1       0.80      0.81      0.80     40011
+
+    accuracy                           0.80     80000
+   macro avg       0.80      0.80      0.80     80000
+weighted avg       0.80      0.80      0.80     80000
+
+                               text sentiment
+0                    I hate twitter  Negative
+1          May god bless you dear{/  Positive
+2  @us  eernameI don't feel so good  Negative
